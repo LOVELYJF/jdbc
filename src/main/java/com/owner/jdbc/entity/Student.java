@@ -16,6 +16,7 @@ public enum Student {
         this.id = id;
         this.age = age;
         this.desc = desc;
+	System.out.println("1111111111");
     }
 
     public static Student[]  getValue(){
